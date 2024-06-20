@@ -8,3 +8,4 @@ import data
 data cleaning, processing, transformation
 dashboard KPIs
 conditional column
+attrition rate new measure
