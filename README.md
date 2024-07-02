@@ -151,13 +151,13 @@ Business Insight: Compares the number of male and female employees who have left
 
 
 #### Summary
-Employee Tenure: Attrition is highest in the first year of employment, indicating potential onboarding or early engagement issues.\
+Employee Tenure: Attrition is highest in the first year of employment, indicating potential onboarding or early engagement issues.
 
-Job Role Impact: Roles like Laboratory Technician, Sales Executive, and Research Scientist exhibit the highest turnover, suggesting specific challenges or unmet needs in these positions.\
+Job Role Impact: Roles like Laboratory Technician, Sales Executive, and Research Scientist exhibit the highest turnover, suggesting specific challenges or unmet needs in these positions.
 
-Salary Influence: Lower salary brackets experience the highest attrition, pointing to possible dissatisfaction with compensation.\
+Salary Influence: Lower salary brackets experience the highest attrition, pointing to possible dissatisfaction with compensation.
 
-Demographic Factors: Younger employees (ages 26-35) and male employees show higher attrition rates, highlighting the need for targeted retention strategies for these groups.\
+Demographic Factors: Younger employees (ages 26-35) and male employees show higher attrition rates, highlighting the need for targeted retention strategies for these groups.
 
 Educational Background: Employees with education in Life Sciences and Medical fields have higher attrition rates, suggesting a mismatch between job expectations and job reality for these backgrounds.
 
@@ -165,7 +165,7 @@ Educational Background: Employees with education in Life Sciences and Medical fi
 
 ##### This report will be filtered on the basis on Departments
 
-# HR Analytics Report of XYZ (Research $ Development)
+# HR Analytics Report of XYZ (Research & Development)
 
 ![Research   Development](https://github.com/dishadey-github/hr-analytics-report/assets/60807918/fa1ef236-83b7-407a-9bd1-e9ef43edc46b)
 
@@ -242,13 +242,13 @@ Business Insight: Depicts the distribution of attrition in the Research & Develo
     
 
 #### Research & Development Report Summary
-Higher Attrition Rate: The R&D department has a slightly higher attrition rate compared to the overall company, indicating potential issues specific to this function.\
+Higher Attrition Rate: The R&D department has a slightly higher attrition rate compared to the overall company, indicating potential issues specific to this function.
 
-Role-Specific Turnover: All attrition in the R&D department is from the Human Resources role, highlighting a need for role-specific interventions.\
+Role-Specific Turnover: All attrition in the R&D department is from the Human Resources role, highlighting a need for role-specific interventions.
 
-Salary and Tenure: Similar to the overall trend, lower salary brackets within R&D see higher attrition, and the highest attrition occurs within the first year.\
+Salary and Tenure: Similar to the overall trend, lower salary brackets within R&D see higher attrition, and the highest attrition occurs within the first year.
 
-Demographic Factors: Attrition is equally split between males and females, with the majority occurring in the 26-35 age group, similar to the overall company trends.\
+Demographic Factors: Attrition is equally split between males and females, with the majority occurring in the 26-35 age group, similar to the overall company trends.
 
 Educational Background: The highest attrition rate is among employees with Human Resources education, suggesting a need for better alignment of job roles with employee expectations and career aspirations.
 
