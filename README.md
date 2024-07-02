@@ -161,7 +161,7 @@ Demographic Factors: Younger employees (ages 26-35) and male employees show high
 
 Educational Background: Employees with education in Life Sciences and Medical fields have higher attrition rates, suggesting a mismatch between job expectations and job reality for these backgrounds.
 
-![image](https://github.com/dishadey-github/hr-analytics-report/assets/60807918/c2a1d188-6bf3-4549-9f6e-a9e09b46089b)
+![image](https://github.com/dishadey-github/hr-analytics-report/assets/60807918/8bc81f48-cd1b-431a-ab99-713a55e8acff)
 
 ##### This report will be filtered on the basis on Departments
 
