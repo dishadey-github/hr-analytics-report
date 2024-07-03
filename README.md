@@ -31,7 +31,7 @@ Attrition by Education Field: Drag EducationField to the Rows area and Attrition
 5. Analyze the Data
 Use the PivotTable to analyze different dimensions of the attrition data.\
 Apply filters to drill down into specific departments, job roles, or other categories.\
-Create additional calculated fields or conditional formatting as needed to highlight key insights.\
+Create additional calculated fields or conditional formatting as needed to highlight key insights.
 
 #### Import Data in Power Query Editor - Add Conditional Column - AttritionCount
 Attrition count is used to quantify the number of employees who have left an organization within a specified period, providing a direct measure of turnover and helping assess workforce stability and management effectiveness.
