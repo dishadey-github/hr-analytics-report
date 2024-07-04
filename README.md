@@ -5,7 +5,7 @@
 ![HR Analytics Report](https://github.com/dishadey-github/hr-analytics-report/assets/60807918/c8b9899d-6a58-431f-8903-066af54ddbfd)
 
 #### Overview
-This HR Analytics Report provides a comprehensive analysis of employee attrition within the company, focusing on various demographic and role-based factors. The report is divided into two main sections: an overall dataset analysis and a detailed examination of the Research & Development department.
+This HR Analytics Report provides a comprehensive analysis of employee attrition within the company, focusing on various demographic and role-based factors. The report is divided into two main sections: an overall dataset analysis and a detailed examination of the Research & Development, Human Resource, Sales department.
 
 #### Data Source
 The HR_Analytics.csv file typically contains various attributes related to employees and their employment details, which are crucial for performing HR analytics.
